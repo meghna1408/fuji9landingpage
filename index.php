@@ -1,1 +1,2 @@
-<?php header( 'Location: /index.html' ) ;  ?>"# fuji9landingpage" 
+<?php echo "test 1234"; ?>
+
