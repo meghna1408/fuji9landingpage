@@ -1,2 +1,1 @@
-<?php echo "test 1234"; ?>
-
+<?php header( 'Location: index.html' ) ;  ?>
